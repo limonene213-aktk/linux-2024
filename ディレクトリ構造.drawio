@@ -1,0 +1,342 @@
+<mxfile host="app.diagrams.net" modified="2024-05-08T03:00:28.682Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="-1TrVVncontsdsFithKN" version="24.2.8" type="device" pages="4">
+  <diagram id="uFEf-uFm-_RoIfqlQVAw" name="ディレクトリ構造">
+    <mxGraphModel dx="2234" dy="1630" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-sCzmSOobmnXv4YN8PYM-31" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rotation=-180;position2=0.02;" vertex="1" parent="1">
+          <mxGeometry x="-646" y="-299" width="292" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="-sCzmSOobmnXv4YN8PYM-26" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.03;" vertex="1" parent="1">
+          <mxGeometry x="614" y="-392" width="328" height="276" as="geometry" />
+        </mxCell>
+        <mxCell id="-sCzmSOobmnXv4YN8PYM-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-352" y="-330" width="334" height="667" as="geometry" />
+        </mxCell>
+        <mxCell id="-sCzmSOobmnXv4YN8PYM-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-sCzmSOobmnXv4YN8PYM-1" target="-sCzmSOobmnXv4YN8PYM-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-sCzmSOobmnXv4YN8PYM-1" value="Dir1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.folder;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-242" y="-112" width="78" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="-sCzmSOobmnXv4YN8PYM-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-sCzmSOobmnXv4YN8PYM-3" target="-sCzmSOobmnXv4YN8PYM-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-sCzmSOobmnXv4YN8PYM-33" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;strokeColor=#3333FF;shadow=1;" edge="1" parent="1" source="-sCzmSOobmnXv4YN8PYM-3" target="-sCzmSOobmnXv4YN8PYM-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-69" y="79.5" />
+              <mxPoint x="-69" y="254.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-sCzmSOobmnXv4YN8PYM-3" value="Dir2" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.folder;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-242" y="44" width="78" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="-sCzmSOobmnXv4YN8PYM-4" value="C:\Users\[学籍番号]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-283" y="-310" width="198" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-sCzmSOobmnXv4YN8PYM-35" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;strokeColor=#CC6600;shadow=1;" edge="1" parent="1" source="-sCzmSOobmnXv4YN8PYM-6" target="-sCzmSOobmnXv4YN8PYM-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-341" y="254" />
+              <mxPoint x="-341" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-sCzmSOobmnXv4YN8PYM-6" value="Dir3" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.folder;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-242" y="219" width="78" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="-sCzmSOobmnXv4YN8PYM-9" value="YOU" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=2;shape=mxgraph.lean_mapping.verbal;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="-297" y="-116" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-sCzmSOobmnXv4YN8PYM-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="88" y="-330" width="518" height="667" as="geometry" />
+        </mxCell>
+        <mxCell id="-sCzmSOobmnXv4YN8PYM-12" value="Dir1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.folder;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="179" y="-112" width="382.31" height="348" as="geometry" />
+        </mxCell>
+        <mxCell id="-sCzmSOobmnXv4YN8PYM-14" value="Dir2" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.folder;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="230" y="15" width="181.27" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="-sCzmSOobmnXv4YN8PYM-15" value="C:\Users\[学籍番号]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="254" y="-310" width="198" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-sCzmSOobmnXv4YN8PYM-16" value="Dir3" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.folder;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="308" y="76" width="78" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="-sCzmSOobmnXv4YN8PYM-17" value="YOU" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=2;shape=mxgraph.lean_mapping.verbal;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="467" y="20.5" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-sCzmSOobmnXv4YN8PYM-18" value="同じ意味" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="6" y="-36" width="68" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-sCzmSOobmnXv4YN8PYM-19" value="Dir1の下にDir2があり、その下にDir3がある構造" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-281" y="-218" width="186" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-sCzmSOobmnXv4YN8PYM-20" value="Dir1の中にDir2があり、その中にDir3がある構造" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="268" y="-211" width="186" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-sCzmSOobmnXv4YN8PYM-21" value="-pオプション：一気に下のディレクトリまでのディレクトリ構造を作る" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="386" width="853" height="141" as="geometry" />
+        </mxCell>
+        <mxCell id="-sCzmSOobmnXv4YN8PYM-22" value="YOU" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=2;shape=mxgraph.lean_mapping.verbal;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="636" y="-342" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-sCzmSOobmnXv4YN8PYM-23" value="&lt;b&gt;カレントディレクトリ&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="639" y="-380" width="198" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-sCzmSOobmnXv4YN8PYM-24" value="←このひとがいる場所" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="686" y="-312" width="198" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-sCzmSOobmnXv4YN8PYM-25" value="pwdコマンドで表示できるよ！" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="652" y="-211" width="243" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-sCzmSOobmnXv4YN8PYM-27" value="mkdir:ディレクトリを作成する" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="352" width="433" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-sCzmSOobmnXv4YN8PYM-28" value="https://github.com/limonene213-aktk/linux-2024" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-333" y="-412" width="399" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-sCzmSOobmnXv4YN8PYM-29" value="&lt;b&gt;ツリー図&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-353" y="-360" width="92" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-sCzmSOobmnXv4YN8PYM-30" value="&lt;div&gt;PS C:\Users\itou\dir1&amp;gt; tree&lt;/div&gt;&lt;div&gt;フォルダー パスの一覧&lt;/div&gt;&lt;div&gt;ボリューム シリアル番号は 8E39-03E7 です&lt;/div&gt;&lt;div&gt;C:.&lt;/div&gt;&lt;div&gt;└─dir2&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; └─dir3&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-622" y="-242" width="254" height="147" as="geometry" />
+        </mxCell>
+        <mxCell id="-sCzmSOobmnXv4YN8PYM-32" value="根本のディレクトリに移動してからtreeコマンドを使って表示" style="text;html=1;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-637.5" y="-68" width="275" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="-sCzmSOobmnXv4YN8PYM-34" value="cd dir3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=33;labelBackgroundColor=#3333FF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-186" y="159" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-sCzmSOobmnXv4YN8PYM-36" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;" vertex="1" parent="1">
+          <mxGeometry x="-556" y="11" width="219" height="149" as="geometry" />
+        </mxCell>
+        <mxCell id="-sCzmSOobmnXv4YN8PYM-37" value="&quot;cd dir2&quot;では失敗します！&lt;br&gt;移動先を直接（&lt;u&gt;相対で&lt;/u&gt;）指定できるのは、下にある場合のみです。" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-547" y="23" width="195" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="-sCzmSOobmnXv4YN8PYM-38" value="cd .." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=33;labelBackgroundColor=#CC6600;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="153" width="80" height="42" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="zUdE0w574qeHKXO1OybB" name="相対ディレクトリ">
+    <mxGraphModel dx="1595" dy="1092" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0XDBoVEr953glCyxTyo0-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-131" y="-132" width="533" height="625" as="geometry" />
+        </mxCell>
+        <mxCell id="0XDBoVEr953glCyxTyo0-22" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;" vertex="1" parent="1">
+          <mxGeometry x="88" y="88" width="176" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0XDBoVEr953glCyxTyo0-2" value="&lt;b&gt;相対ディレクトリ&lt;/b&gt;：カレントディレクトリ（自分がいる場所）を基準にしたときのファイルやフォルダの位置" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-131" y="-218" width="337" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="0XDBoVEr953glCyxTyo0-4" value="YOU" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=2;shape=mxgraph.lean_mapping.verbal;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="-58" y="80.25" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0XDBoVEr953glCyxTyo0-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="0XDBoVEr953glCyxTyo0-5" target="0XDBoVEr953glCyxTyo0-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0XDBoVEr953glCyxTyo0-5" value="[ユーザー名]" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#CC6600;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.folder;labelBackgroundColor=default;textShadow=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="-0.5" y="97" width="78" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="0XDBoVEr953glCyxTyo0-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="0XDBoVEr953glCyxTyo0-8" target="0XDBoVEr953glCyxTyo0-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0XDBoVEr953glCyxTyo0-8" value="home" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.folder;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-0.5" y="-58" width="78" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="0XDBoVEr953glCyxTyo0-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="0XDBoVEr953glCyxTyo0-9" target="0XDBoVEr953glCyxTyo0-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0XDBoVEr953glCyxTyo0-9" value="&amp;nbsp;/（ルート）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;labelBackgroundColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="-12.5" y="-132" width="102" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0XDBoVEr953glCyxTyo0-16" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="0XDBoVEr953glCyxTyo0-13" target="0XDBoVEr953glCyxTyo0-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0XDBoVEr953glCyxTyo0-18" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="0XDBoVEr953glCyxTyo0-13" target="0XDBoVEr953glCyxTyo0-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0XDBoVEr953glCyxTyo0-13" value="dir1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.folder;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-0.5" y="254" width="78" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="0XDBoVEr953glCyxTyo0-15" value="dir2" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.folder;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-0.5" y="397" width="78" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="0XDBoVEr953glCyxTyo0-20" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="0XDBoVEr953glCyxTyo0-17" target="0XDBoVEr953glCyxTyo0-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0XDBoVEr953glCyxTyo0-17" value="sub1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.folder;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="185" y="254" width="78" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="0XDBoVEr953glCyxTyo0-19" value="sub2" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.folder;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="185" y="385" width="78" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="0XDBoVEr953glCyxTyo0-21" value="Linux/Unixにおけるユーザーホーム" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="101" y="100" width="142" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V607FINC9M0J44A9vOLu-1" value="カレント（基準）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;textShadow=1;" vertex="1" parent="1">
+          <mxGeometry x="-9.5" y="126" width="96" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V607FINC9M0J44A9vOLu-2" value="&quot;./dir1&quot;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;rounded=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="-97.5" y="244" width="88" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="V607FINC9M0J44A9vOLu-3" value="※&quot;./&quot;は省略可能" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="276" y="497" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V607FINC9M0J44A9vOLu-4" value="&quot;./dir1/sub1/sub2&quot;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;rounded=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="267" y="357" width="121" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="V607FINC9M0J44A9vOLu-6" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;edgeStyle=orthogonalEdgeStyle;dashed=1;strokeColor=#7E0DFF;shadow=1;" edge="1" parent="1" source="0XDBoVEr953glCyxTyo0-5" target="0XDBoVEr953glCyxTyo0-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="88" y="203" as="sourcePoint" />
+            <mxPoint x="138" y="153" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="39" y="308" />
+              <mxPoint x="224" y="308" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V607FINC9M0J44A9vOLu-7" value="ポイントは、自分がいるところから始めて、指でたどっていって、経由するディレクトリを書いてゆく" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="420" y="350" width="228" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="V607FINC9M0J44A9vOLu-8" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;&quot;..&quot;&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;shadow=1;position2=0;" vertex="1" parent="1">
+          <mxGeometry x="79" y="-94" width="78" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="V607FINC9M0J44A9vOLu-9" value="上方向のディレクトリを指定するときだけ注意！" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="101" y="-27" width="191" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="h5j87acOi5yBif9eHICK-1" value="いまいる場所（たとえば広島県広島市中区の紙屋町交差点あたり）を基準にして&quot;基町&quot;&lt;br&gt;といえば、そごうや広島城あたりを指すとわかる！&lt;br&gt;けれど、たとえば兵庫県神戸市で「基町（もとまち）」と言ってしまうと、「中華街がある元町のこと？」と誤解されるかもしれません。" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-184.5" y="531" width="640" height="89" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="絶対ディレクトリ" id="Vso1yyz3JuDyWxUDkDYn">
+    <mxGraphModel dx="1595" dy="1092" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="QvyAs36cftAh-4wXCflb-0" />
+        <mxCell id="QvyAs36cftAh-4wXCflb-1" parent="QvyAs36cftAh-4wXCflb-0" />
+        <mxCell id="QvyAs36cftAh-4wXCflb-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="QvyAs36cftAh-4wXCflb-1">
+          <mxGeometry x="-131" y="-132" width="533" height="625" as="geometry" />
+        </mxCell>
+        <mxCell id="QvyAs36cftAh-4wXCflb-3" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;" vertex="1" parent="QvyAs36cftAh-4wXCflb-1">
+          <mxGeometry x="88" y="88" width="176" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="QvyAs36cftAh-4wXCflb-5" value="&lt;b&gt;絶対ディレクトリ&lt;/b&gt;：カレントディレクトリ（自分がいる場所）ではなく、パソコン内での絶対的なファイルやフォルダの位置" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="QvyAs36cftAh-4wXCflb-1">
+          <mxGeometry x="-188" y="-272" width="337" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="QvyAs36cftAh-4wXCflb-6" value="YOU" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=2;shape=mxgraph.lean_mapping.verbal;pointerEvents=1;" vertex="1" parent="QvyAs36cftAh-4wXCflb-1">
+          <mxGeometry x="-68" y="82.5" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QvyAs36cftAh-4wXCflb-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="QvyAs36cftAh-4wXCflb-1" source="QvyAs36cftAh-4wXCflb-8" target="QvyAs36cftAh-4wXCflb-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QvyAs36cftAh-4wXCflb-8" value="[ユーザー名]" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.folder;labelBackgroundColor=default;" vertex="1" parent="QvyAs36cftAh-4wXCflb-1">
+          <mxGeometry x="-0.5" y="97" width="78" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="QvyAs36cftAh-4wXCflb-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="QvyAs36cftAh-4wXCflb-1" source="QvyAs36cftAh-4wXCflb-10" target="QvyAs36cftAh-4wXCflb-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QvyAs36cftAh-4wXCflb-10" value="home" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.folder;labelBackgroundColor=default;" vertex="1" parent="QvyAs36cftAh-4wXCflb-1">
+          <mxGeometry x="-0.5" y="-58" width="78" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="QvyAs36cftAh-4wXCflb-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="QvyAs36cftAh-4wXCflb-1" source="QvyAs36cftAh-4wXCflb-12" target="QvyAs36cftAh-4wXCflb-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QvyAs36cftAh-4wXCflb-12" value="&amp;nbsp;/（ルート）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;labelBackgroundColor=#B3B3B3;" vertex="1" parent="QvyAs36cftAh-4wXCflb-1">
+          <mxGeometry x="-12.5" y="-132" width="102" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QvyAs36cftAh-4wXCflb-13" value="絶対ディレクトリの場合は&lt;br&gt;ここを基準にする" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.34;align=center;verticalAlign=middle;strokeWidth=3;strokeColor=#CC0000;" vertex="1" parent="QvyAs36cftAh-4wXCflb-1">
+          <mxGeometry x="21" y="-186" width="194" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QvyAs36cftAh-4wXCflb-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="QvyAs36cftAh-4wXCflb-1" source="QvyAs36cftAh-4wXCflb-16" target="QvyAs36cftAh-4wXCflb-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QvyAs36cftAh-4wXCflb-15" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="QvyAs36cftAh-4wXCflb-1" source="QvyAs36cftAh-4wXCflb-16" target="QvyAs36cftAh-4wXCflb-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QvyAs36cftAh-4wXCflb-16" value="dir1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.folder;labelBackgroundColor=default;" vertex="1" parent="QvyAs36cftAh-4wXCflb-1">
+          <mxGeometry x="-0.5" y="254" width="78" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="QvyAs36cftAh-4wXCflb-17" value="dir2" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.folder;labelBackgroundColor=default;" vertex="1" parent="QvyAs36cftAh-4wXCflb-1">
+          <mxGeometry x="-0.5" y="397" width="78" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="QvyAs36cftAh-4wXCflb-18" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="QvyAs36cftAh-4wXCflb-1" source="QvyAs36cftAh-4wXCflb-19" target="QvyAs36cftAh-4wXCflb-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QvyAs36cftAh-4wXCflb-19" value="sub1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.folder;labelBackgroundColor=default;" vertex="1" parent="QvyAs36cftAh-4wXCflb-1">
+          <mxGeometry x="185" y="254" width="78" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="QvyAs36cftAh-4wXCflb-20" value="sub2" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.folder;labelBackgroundColor=default;" vertex="1" parent="QvyAs36cftAh-4wXCflb-1">
+          <mxGeometry x="185" y="385" width="78" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="QvyAs36cftAh-4wXCflb-21" value="Linux/Unixにおけるユーザーホーム" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="QvyAs36cftAh-4wXCflb-1">
+          <mxGeometry x="101" y="100" width="142" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T_SKS9ZT7vtKlmjQ35eD-2" value="今回はここが基準ではないです！" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;rounded=1;shadow=1;" vertex="1" parent="QvyAs36cftAh-4wXCflb-1">
+          <mxGeometry x="-188" y="30" width="120" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="T_SKS9ZT7vtKlmjQ35eD-3" value="メリットとデメリット：&lt;div&gt;誤解は生まれないメリットはあるが、指定するときに非常に長くコマンドを打たなければいけない（しかも間違ったら正しく指定されない！）&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="QvyAs36cftAh-4wXCflb-1">
+          <mxGeometry x="-99" y="578" width="481" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="bpBav_bAVmMrO9NVUhj5-0" value="&quot;太陽系第3惑星地球日本国広島県中区基町&quot;みたいな指定の仕方、これなら兵庫県神戸市にいても、神奈川県横浜市にいても誤解は生じません！" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="QvyAs36cftAh-4wXCflb-1">
+          <mxGeometry x="-97" y="504" width="474" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="Zdbp5PXHEMvrYX_3zOCQ-0" value="/home/[ユーザー名]/dir1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;rounded=1;shadow=1;" vertex="1" parent="QvyAs36cftAh-4wXCflb-1">
+          <mxGeometry x="-182" y="228" width="177" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="Zdbp5PXHEMvrYX_3zOCQ-1" value="※今回は&quot;/&quot;を省略してはダメ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=5" vertex="1" parent="QvyAs36cftAh-4wXCflb-1">
+          <mxGeometry x="120" y="-132" width="233" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Zdbp5PXHEMvrYX_3zOCQ-2" value="/home/[ユーザー名]/dir1/sub1/sub2" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;rounded=1;shadow=1;" vertex="1" parent="QvyAs36cftAh-4wXCflb-1">
+          <mxGeometry x="264" y="335" width="220" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="Zdbp5PXHEMvrYX_3zOCQ-3" value="/home" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;rounded=1;shadow=1;" vertex="1" parent="QvyAs36cftAh-4wXCflb-1">
+          <mxGeometry x="81" y="-68" width="124" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="Zdbp5PXHEMvrYX_3zOCQ-4" value="いま自分がいる場所は関係ないので、&quot;..&quot;は使わない" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="QvyAs36cftAh-4wXCflb-1">
+          <mxGeometry x="111" y="-6" width="282" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Zdbp5PXHEMvrYX_3zOCQ-5" value="&amp;nbsp;/（ルートディレクトリ）とは、そのパソコンのいちばん底になる部分のこと、「ルート」というのは「植物などの根っこ」という意味" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;labelBackgroundColor=#B3B3B3;textShadow=1;labelBorderColor=default;" vertex="1" parent="QvyAs36cftAh-4wXCflb-1">
+          <mxGeometry x="222" y="-85" width="373" height="62" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="xRZ__P9CIYrb7NxFRdHv" name="関連コマンド">
+    <mxGraphModel dx="1834" dy="1230" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vBDtpbjn9nehvtO7giLC-1" value="&lt;div&gt;関連コマンド：&lt;/div&gt;ディレクトリを削除する：rm -r [ディレクトリ名]&lt;div&gt;ファイルを削除する：rm [ファイル名]&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-222" y="-171" width="429" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="vBDtpbjn9nehvtO7giLC-2" value="&lt;div&gt;lsコマンドを使ったときの出力（PowerShell版）：&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;d&lt;/b&gt;-----&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 2024/05/08&amp;nbsp; &amp;nbsp; &amp;nbsp;11:50&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; dir1&lt;br&gt;&lt;/div&gt;-a----&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 2024/05/08&amp;nbsp; &amp;nbsp; &amp;nbsp;11:53&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 0 file1.txt" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-227" y="-93" width="377" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="vBDtpbjn9nehvtO7giLC-3" value="Linux/UNIXの場合は&quot;ls -l&quot;と、-lオプションが必要です" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="-148" width="247" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="vBDtpbjn9nehvtO7giLC-4" value="先頭に&quot;d&quot;があれば&lt;br&gt;ディレクトリです" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;" vertex="1" parent="1">
+          <mxGeometry x="-347" y="-117" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vBDtpbjn9nehvtO7giLC-5" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="-294" y="-13" width="139" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vBDtpbjn9nehvtO7giLC-6" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;先頭が&quot;-&quot;ならファイル&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="28" width="144" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vBDtpbjn9nehvtO7giLC-7" value="ディレクトリというのは「フォルダ」のことで、中にフォルダやファイルを入れることができるもの。&lt;div&gt;ファイルというのは「フォルダ」以外のもののこと。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-237" y="87" width="581" height="72" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
