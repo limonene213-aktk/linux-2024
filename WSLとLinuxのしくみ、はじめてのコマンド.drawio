@@ -1,0 +1,281 @@
+<mxfile host="app.diagrams.net" modified="2024-05-22T02:59:34.008Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="mhfOVt9GowVhuuV4MVl3" version="24.4.4" type="device" pages="3">
+  <diagram id="8S31HE4b4NdFGyo4_DFi" name="ページ2">
+    <mxGraphModel dx="615" dy="1829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jbWW7IhaJvGBiXaJYf0--1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;OS&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="41" y="-1050" width="410" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbWW7IhaJvGBiXaJYf0--2" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.windows_server" vertex="1" parent="1">
+          <mxGeometry x="61" y="-1045" width="39" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jbWW7IhaJvGBiXaJYf0--3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="41" y="-1110" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbWW7IhaJvGBiXaJYf0--4" value="BIOS/UEFI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-990" width="411" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jbWW7IhaJvGBiXaJYf0--5" value="ハードウェア（キーボードやマウスやディスプレイなど）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-960" width="411" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbWW7IhaJvGBiXaJYf0--6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="111" y="-1110" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbWW7IhaJvGBiXaJYf0--7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="151" y="-1110" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbWW7IhaJvGBiXaJYf0--8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="231" y="-1110" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbWW7IhaJvGBiXaJYf0--9" value="アプリケーション" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="81" y="-1095" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jbWW7IhaJvGBiXaJYf0--10" value="LINUX/UNIXとWindowsは根本的に違うOS&lt;br&gt;→それぞれに最低限の構造が必要というのが原則" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-830" width="440" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jbWW7IhaJvGBiXaJYf0--11" value="最低限、OSごとにこういう感じの構造がないと立ち上がらない。" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-890" width="370" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jbWW7IhaJvGBiXaJYf0--12" value="コンピュータのしくみ" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="44" y="-1140" width="370" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jbWW7IhaJvGBiXaJYf0--13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;OS(Windows)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="41" y="-765" width="359" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbWW7IhaJvGBiXaJYf0--14" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.windows_server" vertex="1" parent="1">
+          <mxGeometry x="61" y="-760" width="39" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jbWW7IhaJvGBiXaJYf0--15" value="BIOS/UEFI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-705" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jbWW7IhaJvGBiXaJYf0--16" value="ハードウェア（キーボードやマウスやディスプレイなど）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-675" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbWW7IhaJvGBiXaJYf0--22" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;OS(Linux)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="415" y="-765" width="359" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbWW7IhaJvGBiXaJYf0--24" value="BIOS/UEFI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="414" y="-705" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jbWW7IhaJvGBiXaJYf0--25" value="ハードウェア（キーボードやマウスやディスプレイなど）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="1">
+          <mxGeometry x="414" y="-675" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbWW7IhaJvGBiXaJYf0--26" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.linux;" vertex="1" parent="1">
+          <mxGeometry x="430" y="-757.4" width="44.8" height="44.8" as="geometry" />
+        </mxCell>
+        <mxCell id="jbWW7IhaJvGBiXaJYf0--27" value="同時に２つのOSを使う（仮想化）するときには、それぞれのOSに、最低限の構造が必要なので、&lt;br&gt;ハードウェアの部分や、BIOS/UEFIなどをそれぞれに用意する必要がある。&lt;br&gt;しかし、そうすると丸被りしてしまう部分が存在しているので、無駄が大きい。" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-594" width="600" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="jbWW7IhaJvGBiXaJYf0--28" value="そこで、無駄を省いてWindows上でLinuxを起動する方法が編み出された→WSL2" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-520" width="589" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jbWW7IhaJvGBiXaJYf0--29" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;OS(Windows)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="44" y="-385" width="410" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbWW7IhaJvGBiXaJYf0--30" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.windows_server" vertex="1" parent="1">
+          <mxGeometry x="64" y="-380" width="39" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jbWW7IhaJvGBiXaJYf0--31" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="44" y="-445" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbWW7IhaJvGBiXaJYf0--32" value="BIOS/UEFI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="43" y="-325" width="411" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jbWW7IhaJvGBiXaJYf0--33" value="ハードウェア（キーボードやマウスやディスプレイなど）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="1">
+          <mxGeometry x="43" y="-295" width="411" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbWW7IhaJvGBiXaJYf0--34" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="114" y="-445" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbWW7IhaJvGBiXaJYf0--35" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="154" y="-445" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbWW7IhaJvGBiXaJYf0--36" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="234" y="-445" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbWW7IhaJvGBiXaJYf0--39" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.chrome" vertex="1" parent="1">
+          <mxGeometry x="49" y="-440" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jbWW7IhaJvGBiXaJYf0--40" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/document-icons-2/30/647719-word-128.png" vertex="1" parent="1">
+          <mxGeometry x="169" y="-440" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jbWW7IhaJvGBiXaJYf0--37" value="アプリケーション" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-470" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jbWW7IhaJvGBiXaJYf0--42" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ef8f21;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="254" y="-445" width="75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jbWW7IhaJvGBiXaJYf0--41" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.linux;" vertex="1" parent="1">
+          <mxGeometry x="269.1" y="-437.4" width="44.8" height="44.8" as="geometry" />
+        </mxCell>
+        <mxCell id="jbWW7IhaJvGBiXaJYf0--43" value="Linuxそのものが&lt;b&gt;&lt;u&gt;&lt;font color=&quot;#ff3333&quot;&gt;アプリとして&lt;/font&gt;&lt;/u&gt;&lt;/b&gt;動く！" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="339" y="-430" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jbWW7IhaJvGBiXaJYf0--44" value="Power Shellで&quot;wsl --install&quot;だけでインストール可能！約5分でできる！&lt;br&gt;&lt;br&gt;※学校や企業の場合、制限がかかっているため色々と手動設定が必要でセットアップに時間がかかる場合があります。" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="-200" width="640" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="m9Jpf1L8Eaz7duSW3ePw" name="ページ3">
+    <mxGraphModel dx="854" dy="453" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KDj-hVf-pGO9Z2mXL_vw-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="470" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KDj-hVf-pGO9Z2mXL_vw-1" value="Windows Terminal" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;" vertex="1" parent="1">
+          <mxGeometry x="40" y="70" width="85" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="KDj-hVf-pGO9Z2mXL_vw-2" value="ではじめるWSL2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="125" y="91.25" width="210" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KDj-hVf-pGO9Z2mXL_vw-3" value="Windows Terminal：Windowsで使うターミナル系アプリ（Power Shellやコマンドプロンプト、WSL2など）を&lt;b&gt;&lt;u&gt;&lt;font color=&quot;#ff3333&quot;&gt;統合的に扱うことができる&lt;/font&gt;&lt;/u&gt;&lt;/b&gt;もの。" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="180" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KDj-hVf-pGO9Z2mXL_vw-4" value="ターミナル/シェル：コンピュータと人間がやりとりをするときに使う窓口。原則ひとつの窓口につき、ひとつのやり取りしかできない。" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="230" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KDj-hVf-pGO9Z2mXL_vw-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="KDj-hVf-pGO9Z2mXL_vw-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="227.19999999999993" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="720" y="199" />
+              <mxPoint x="630" y="199" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KDj-hVf-pGO9Z2mXL_vw-5" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="690" y="218.8" width="62.400000000000006" height="62.400000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="KDj-hVf-pGO9Z2mXL_vw-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="KDj-hVf-pGO9Z2mXL_vw-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="265.19999999999993" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="300" />
+              <mxPoint x="610" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KDj-hVf-pGO9Z2mXL_vw-6" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="211.2" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KDj-hVf-pGO9Z2mXL_vw-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" target="KDj-hVf-pGO9Z2mXL_vw-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="227.19999999999993" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="620" y="191" />
+              <mxPoint x="510" y="191" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KDj-hVf-pGO9Z2mXL_vw-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" target="KDj-hVf-pGO9Z2mXL_vw-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="270" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="620" y="300" />
+              <mxPoint x="721" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KDj-hVf-pGO9Z2mXL_vw-10" value="入力" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="300" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KDj-hVf-pGO9Z2mXL_vw-11" value="出力" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="170" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KDj-hVf-pGO9Z2mXL_vw-14" value="Windows Terminal" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;" vertex="1" parent="1">
+          <mxGeometry x="590" y="221.2" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KDj-hVf-pGO9Z2mXL_vw-15" value="リポジトリ：インストール可能なアプリケーションなどの情報を置いておくところ。" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="359" y="633" width="458" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KDj-hVf-pGO9Z2mXL_vw-16" value="Linux" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.linux;" vertex="1" parent="1">
+          <mxGeometry x="299" y="477.6" width="44.8" height="44.8" as="geometry" />
+        </mxCell>
+        <mxCell id="KDj-hVf-pGO9Z2mXL_vw-17" value="アプリ導入のしくみ（Winとの差異）：" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="35" y="360" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KDj-hVf-pGO9Z2mXL_vw-18" value="Windows" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.windows_server" vertex="1" parent="1">
+          <mxGeometry x="50" y="470" width="39" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KDj-hVf-pGO9Z2mXL_vw-19" value="hoge&lt;b&gt;&lt;font color=&quot;#3333ff&quot;&gt;.exe&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="470" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KDj-hVf-pGO9Z2mXL_vw-20" value="hoge&lt;b&gt;&lt;font color=&quot;#3333ff&quot;&gt;.msi&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KDj-hVf-pGO9Z2mXL_vw-22" value="などをインターネットを使って、特定の配布ページなどからダウンロードしてきてインストールするのが主流" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="530" width="160" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="KDj-hVf-pGO9Z2mXL_vw-23" value="AndroidやiOSのようにストアによる配布があり、それを使うのが主流！&lt;br&gt;「ストアを使う」ためには、&lt;b&gt;&lt;u&gt;&lt;font color=&quot;#ff3333&quot;&gt;パッケージマネージャ&lt;/font&gt;&lt;/u&gt;&lt;/b&gt;と呼ばれる仕組みを使う。パッケージマネージャは複数あり、そのコマンドはそれぞれによって異なるが、UbuntuやDebianなどは&lt;u&gt;&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;apt（またはapt-get）&lt;/font&gt;&lt;/b&gt;&lt;/u&gt;が主流です。" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="470" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="KDj-hVf-pGO9Z2mXL_vw-25" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.24;" vertex="1" parent="1">
+          <mxGeometry x="350" y="390" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KDj-hVf-pGO9Z2mXL_vw-24" value="sudo &lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;apt&lt;/font&gt;&lt;/b&gt; update &amp;amp;&amp;amp; sudo &lt;font color=&quot;#ff3333&quot;&gt;&lt;b&gt;apt&lt;/b&gt;&lt;/font&gt; upgrade &lt;font color=&quot;#00cc66&quot;&gt;&lt;b&gt;-y&lt;/b&gt;&lt;/font&gt;&lt;br&gt;※アップデートの例" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="400" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KDj-hVf-pGO9Z2mXL_vw-26" value="利用できるアプリの一覧はリポジトリに存在し、その&lt;b&gt;&lt;u&gt;リポジトリも複数存在&lt;/u&gt;&lt;/b&gt;する。" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="360" y="598" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KDj-hVf-pGO9Z2mXL_vw-27" value="オンゲーをするときのAsiaサーバー、北米サーバーなどと同じような感じ" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;size=40;position=0.29;align=left;" vertex="1" parent="1">
+          <mxGeometry x="600" y="507.5" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KDj-hVf-pGO9Z2mXL_vw-28" value="インストール：&lt;font color=&quot;#3333ff&quot;&gt;sudo&lt;/font&gt; &lt;font color=&quot;#ff3333&quot;&gt;&lt;b&gt;apt&lt;/b&gt;&lt;/font&gt; &lt;font color=&quot;#ff9933&quot;&gt;install&lt;/font&gt; [アプリ名]&lt;br&gt;&lt;br&gt;&lt;div&gt;アンインストール：&lt;font color=&quot;#3333ff&quot;&gt;sudo&lt;/font&gt; &lt;font color=&quot;#ff3333&quot;&gt;&lt;b&gt;apt&lt;/b&gt;&lt;/font&gt; &lt;font color=&quot;#ff9933&quot;&gt;remove&lt;/font&gt; [アプリ名]&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="39.5" y="680" width="560.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KDj-hVf-pGO9Z2mXL_vw-29" value="例1：neofetch（ネオフェッチ）のインストールとアンインストール&lt;br&gt;sudo apt install neofetch&lt;br&gt;&lt;br&gt;&lt;div&gt;sudo apt remove neofetch&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="790" width="390" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KDj-hVf-pGO9Z2mXL_vw-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;exitX=0.746;exitY=0.656;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="KDj-hVf-pGO9Z2mXL_vw-30" target="KDj-hVf-pGO9Z2mXL_vw-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="665" y="890" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="722" y="750" />
+              <mxPoint x="683" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KDj-hVf-pGO9Z2mXL_vw-30" value="&quot;&lt;b&gt;Do you want to continue? [Y/n] &lt;/b&gt;&quot;&lt;br&gt;と聞かれたら、OKなら&quot;y&quot;キーを押す。" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.13;" vertex="1" parent="1">
+          <mxGeometry x="550" y="660" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KDj-hVf-pGO9Z2mXL_vw-32" value="いちいち確認をされるのが面倒というときは、&lt;b&gt;&lt;u&gt;&lt;font color=&quot;#00cc66&quot;&gt;&quot;-y&quot;オプション&lt;/font&gt;&lt;/u&gt;&lt;/b&gt;を使うとよい。" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="595" y="790" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KDj-hVf-pGO9Z2mXL_vw-36" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="440" y="860" width="370" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KDj-hVf-pGO9Z2mXL_vw-35" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="KDj-hVf-pGO9Z2mXL_vw-36">
+          <mxGeometry width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KDj-hVf-pGO9Z2mXL_vw-33" value="&lt;font color=&quot;#3333ff&quot;&gt;権限&lt;/font&gt; &lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;本体&lt;/font&gt;&lt;/b&gt; &lt;font color=&quot;#ff9933&quot;&gt;内容・対象&lt;/font&gt; &lt;font color=&quot;#00cc66&quot;&gt;オプション&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="KDj-hVf-pGO9Z2mXL_vw-36">
+          <mxGeometry x="10" y="20" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KDj-hVf-pGO9Z2mXL_vw-34" value="Linuxコマンドの構文" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KDj-hVf-pGO9Z2mXL_vw-36">
+          <mxGeometry x="10" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KDj-hVf-pGO9Z2mXL_vw-38" value="※このうち、&lt;u&gt;&lt;font color=&quot;#ff3333&quot;&gt;&lt;b&gt;本体&lt;/b&gt;&lt;/font&gt;は必須&lt;/u&gt;（あとは必要に応じて付け足す）&lt;div&gt;※原則、&lt;font color=&quot;#00cc66&quot;&gt;オプション&lt;/font&gt;の位置は、&lt;font color=&quot;#ff9933&quot;&gt;内容・対象&lt;/font&gt;と入れ替えてもよい。&lt;br&gt;　例：&lt;font style=&quot;&quot; color=&quot;#3333ff&quot;&gt;sudo&lt;/font&gt; &lt;font style=&quot;&quot; color=&quot;#ff3333&quot;&gt;apt&lt;/font&gt; &lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#ff9933&quot;&gt;install neofetch&lt;/font&gt; &lt;font color=&quot;#00cc66&quot;&gt;-y&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;font style=&quot;&quot; color=&quot;#3333ff&quot;&gt;sudo&lt;/font&gt; &lt;font style=&quot;&quot; color=&quot;#ff3333&quot;&gt;apt&lt;/font&gt; &lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#ff9933&quot;&gt;install&lt;/font&gt; &lt;font color=&quot;#00cc66&quot;&gt;-y&lt;/font&gt; &lt;/b&gt;&lt;font style=&quot;&quot; color=&quot;#ff9933&quot;&gt;&lt;b&gt;neofetch&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;&quot; color=&quot;#3333ff&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;sudo&lt;/font&gt;&amp;nbsp;&lt;font style=&quot;&quot; color=&quot;#ff3333&quot;&gt;apt&lt;/font&gt;&amp;nbsp;&lt;font style=&quot;&quot; color=&quot;#00cc66&quot;&gt;&lt;b&gt;-y&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;&quot;&gt;&amp;nbsp;&lt;font style=&quot;&quot; color=&quot;#ff9933&quot;&gt;install&lt;/font&gt;&amp;nbsp;&lt;font style=&quot;&quot; color=&quot;#ff9933&quot;&gt;neofetch&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;font color=&quot;#ff9933&quot;&gt;　　　　　　　　　&lt;/font&gt;上記はどれも正常に動作します。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="923" width="360" height="127" as="geometry" />
+        </mxCell>
+        <mxCell id="KDj-hVf-pGO9Z2mXL_vw-39" value="例2：slのインストールとアンインストール&lt;br&gt;sudo apt install sl&lt;br&gt;&lt;br&gt;&lt;div&gt;sudo apt remove sl&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="39.5" y="860" width="390" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="K7d4OJ8gKSUwpNhEA5r2-1" value="※いちおう、Linuxもパッケージ自体（.debや.tar.gz）をダウンロードなどしてインストールする方法もありますが、頻度としてはマストとは言えないため今回は割愛します。" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="29" y="1110" width="770" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="P-O4ups11KfVK1h1ewr7" name="ページ4">
+    <mxGraphModel dx="532" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
